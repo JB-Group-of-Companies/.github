@@ -11,7 +11,6 @@ JB Group of Companies is dedicated to making this world aware of the importance 
 - **[Backend](https://github.com/JB-Group-of-Companies/Backend):** Django Rest API using DjangoRestFramework
 - **[Frontend](https://github.com/JB-Group-of-Companies/Frontend):** Progressive Web App using Next.js
 - **[Design](https://github.com/JB-Group-of-Companies/Design)** Responsive Design using Bootstrap studio
-- ...
 
 ## Getting Started
 
